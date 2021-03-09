@@ -1,0 +1,13 @@
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\bin\Debug\netcoreapp3.1\HW_task2.exe
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\bin\Debug\netcoreapp3.1\HW_task2.deps.json
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\bin\Debug\netcoreapp3.1\HW_task2.runtimeconfig.json
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\bin\Debug\netcoreapp3.1\HW_task2.runtimeconfig.dev.json
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\bin\Debug\netcoreapp3.1\HW_task2.dll
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\bin\Debug\netcoreapp3.1\HW_task2.pdb
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\obj\Debug\netcoreapp3.1\HW_task2.csprojAssemblyReference.cache
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\obj\Debug\netcoreapp3.1\HW_task2.AssemblyInfoInputs.cache
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\obj\Debug\netcoreapp3.1\HW_task2.AssemblyInfo.cs
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\obj\Debug\netcoreapp3.1\HW_task2.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\obj\Debug\netcoreapp3.1\HW_task2.dll
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\obj\Debug\netcoreapp3.1\HW_task2.pdb
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\HW_task2\obj\Debug\netcoreapp3.1\HW_task2.genruntimeconfig.cache

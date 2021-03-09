@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\Lesson3_CS_Matrix\\Lesson3_CS_Matrix.csproj": {}
+    "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\HW_task2\\HW_task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\Lesson3_CS_Matrix\\Lesson3_CS_Matrix.csproj": {
+    "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\HW_task2\\HW_task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\Lesson3_CS_Matrix\\Lesson3_CS_Matrix.csproj",
-        "projectName": "Lesson3_CS_Matrix",
-        "projectPath": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\Lesson3_CS_Matrix\\Lesson3_CS_Matrix.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\HW_task2\\HW_task2.csproj",
+        "projectName": "HW_task2",
+        "projectPath": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\HW_task2\\HW_task2.csproj",
         "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\Lesson3_CS_Matrix\\obj\\",
+        "outputPath": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\HW_task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_CS_Matrix", "Lesson3_CS_Matrix\Lesson3_CS_Matrix.csproj", "{4DD94679-FBD3-4F9E-B78E-650D7D1CA348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3_CS_Matrix", "Lesson3_CS_Matrix\Lesson3_CS_Matrix.csproj", "{4DD94679-FBD3-4F9E-B78E-650D7D1CA348}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW_1Task", "HW_1Task\HW_1Task.csproj", "{6E3405CB-E7F8-4E50-8745-2D82AAA32D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_task2", "HW_task2\HW_task2.csproj", "{3DA988DD-F5EC-44E8-883F-DF83A58246E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4DD94679-FBD3-4F9E-B78E-650D7D1CA348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DD94679-FBD3-4F9E-B78E-650D7D1CA348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DD94679-FBD3-4F9E-B78E-650D7D1CA348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3405CB-E7F8-4E50-8745-2D82AAA32D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3405CB-E7F8-4E50-8745-2D82AAA32D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3405CB-E7F8-4E50-8745-2D82AAA32D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3405CB-E7F8-4E50-8745-2D82AAA32D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA988DD-F5EC-44E8-883F-DF83A58246E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA988DD-F5EC-44E8-883F-DF83A58246E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA988DD-F5EC-44E8-883F-DF83A58246E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA988DD-F5EC-44E8-883F-DF83A58246E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

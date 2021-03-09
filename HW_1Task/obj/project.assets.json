@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\Lesson3_CS_Matrix\\Lesson3_CS_Matrix.csproj",
-      "projectName": "Lesson3_CS_Matrix",
-      "projectPath": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\Lesson3_CS_Matrix\\Lesson3_CS_Matrix.csproj",
+      "projectUniqueName": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\HW_1Task\\HW_1Task.csproj",
+      "projectName": "HW_1Task",
+      "projectPath": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\HW_1Task\\HW_1Task.csproj",
       "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\Lesson3_CS_Matrix\\obj\\",
+      "outputPath": "C:\\Users\\Igor\\Source\\Repos\\CS_Matrix_String_Lesson3\\HW_1Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",

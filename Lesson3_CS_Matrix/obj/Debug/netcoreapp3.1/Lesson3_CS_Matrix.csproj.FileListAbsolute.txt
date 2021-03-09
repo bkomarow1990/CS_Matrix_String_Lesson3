@@ -11,3 +11,16 @@ C:\Users\dev\source\repos\Lesson3_CS_Matrix\Lesson3_CS_Matrix\obj\Debug\netcorea
 C:\Users\dev\source\repos\Lesson3_CS_Matrix\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.dll
 C:\Users\dev\source\repos\Lesson3_CS_Matrix\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.pdb
 C:\Users\dev\source\repos\Lesson3_CS_Matrix\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.genruntimeconfig.cache
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\bin\Debug\netcoreapp3.1\Lesson3_CS_Matrix.exe
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\bin\Debug\netcoreapp3.1\Lesson3_CS_Matrix.deps.json
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\bin\Debug\netcoreapp3.1\Lesson3_CS_Matrix.runtimeconfig.json
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\bin\Debug\netcoreapp3.1\Lesson3_CS_Matrix.runtimeconfig.dev.json
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\bin\Debug\netcoreapp3.1\Lesson3_CS_Matrix.dll
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\bin\Debug\netcoreapp3.1\Lesson3_CS_Matrix.pdb
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.csprojAssemblyReference.cache
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.AssemblyInfoInputs.cache
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.AssemblyInfo.cs
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.dll
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.pdb
+C:\Users\Igor\Source\Repos\CS_Matrix_String_Lesson3\Lesson3_CS_Matrix\obj\Debug\netcoreapp3.1\Lesson3_CS_Matrix.genruntimeconfig.cache
